@@ -23,10 +23,12 @@ body {
 }
 
 .header h1 .seo {
+    /* updates color */
     color: #d9dcd6;
 }
 
 .header nav {
+    /* updates where the header words are located, what size and font they are */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -53,6 +55,7 @@ p {
 }
 
 .hero {
+    /* shows the word height, location on page and background image */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -62,11 +65,13 @@ p {
 }
 
 .float-left {
+    /* shows the image is going to be floating on the left side of the page */
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
+    /* shows image is going to be floating on the right side of the page */
     float: right;
     margin-left: 25px;
 }
@@ -119,6 +124,7 @@ p {
 }
 
 .benefit-lead img {
+    /* shows that the image will be set as block which is as wide as possible */
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -191,6 +197,7 @@ p {
 }
 
 .footer {
+    /* shows where the footer will be at on the page, the font the footer will be and how the text will be aligned */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -198,5 +205,6 @@ p {
 }
 
 .footer h2 {
+    /* shows footer font size */
     font-size: 20px;
 }
