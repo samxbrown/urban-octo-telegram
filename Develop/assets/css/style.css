@@ -17,6 +17,7 @@ body {
 }
 
 .header h1 {
+/* updates size of display font explains that the display with inline block will only be as wide as neccesary */
     display: inline-block;
     font-size: 48px;
 }
