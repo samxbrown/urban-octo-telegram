@@ -6,7 +6,19 @@
 
 ## Installation
 
-N/A
+To run and modify this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/urban-octo-telegram1.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd urban-octo-telegram1
+Open the project in your preferred code editor.
 
 ## Usage
 
