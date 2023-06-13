@@ -30,9 +30,6 @@ Once you have the project set up locally, you can:
 
 ## Credits
 
-I would like to extend my appreciation and thanks to the following individual as their repository was the source of inspiration for this project.
-https://github.com/coding-boot-camp/urban-octo-telegram
-
 ## License
 
 N/A
