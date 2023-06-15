@@ -1,7 +1,7 @@
 # Marketing Agency Website
 
 ## Description
-This repository contains a codebase for a marketing agency website that follows accessibility standards. The goal is to optimize the site for search engines and ensure it is accessible to a wide range of users. The following criteria outline the requirements for meeting accessibility standards:
+This repository contains a codebase for a marketing agency website that follows accessibility standards. The goal is to optimize the site for search engines and ensure it is accessible to a wide range of users.
 
 
 ## Installation
